@@ -6,5 +6,3 @@ function openBurgerMenu() {
     nav.classList.toggle("nav-active")
  });
 }
-
-
